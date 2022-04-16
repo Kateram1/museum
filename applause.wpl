@@ -1,0 +1,14 @@
+<?wpl version="1.0"?>
+<smil>
+    <head>
+        <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.19041.1566"/>
+        <meta name="ItemCount" content="2"/>
+        <title>applause</title>
+    </head>
+    <body>
+        <seq>
+            <media src="..\..\Pictures\Museum Videos\applause 1.mp4" tid="{24BBB6DD-1417-436A-B267-1821298BCA34}"/>
+            <media src="..\..\Pictures\Museum Videos\applause 2.mp4" tid="{9A7301E8-3718-4B06-A2BF-2FE06D4973A1}"/>
+        </seq>
+    </body>
+</smil>
